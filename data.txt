@@ -1,0 +1,14 @@
+help:
+chdir -> Change Directory
+ipconfig -> To show the Windows IP Configuration
+ping -> used to Ping with the specified addresss
+shutdown -> used to shutdown
+tasklist -> used to provide the current apps that are running
+tasklist /v -> to get better understanding",
+systeminfo -> used to know about hte system
+title newname -> To change the name of the command prompt
+cls -> To clear
+color digit(Try help): To change the color
+Ctrl+c -> To stop the process
+attrib +h +s +r Filename -> To hide a file (with no drawback)
+attrib -h -s -r Filename -> To unhide a file"

@@ -1,0 +1,57 @@
+website  
+http://cse.iitkgpc.ac.in/~dsamanta/java.html
+
+
+encapsulation
+inheritance
+polymorphism
+abstraction
+											JAVA AND C ARE CASE SENSITIVE
+
+import java.lang.*
+class Helloworld
+{
+	public static void main(String args[]){
+		System.out.println("Hello world")
+	}
+}
+  
+
+
+Paradigms		object oriented 
+platform dependency	independent 
+Pre processor dire	Not supported
+
+Running in terminal
+ javac filename.java //debugging
+ filename.java  //For running
+
+
+declaration of the Scanner class
+Scanner sc = new Scanner(System.in);
+
+declaration of datatype
+int a=20;
+float b=20.0;
+char c='D';  //while declaring character only single quotes were used
+String d="Hello World";
+
+getting input from user
+int  sc.nextInt()
+float  sc.nextFloat()
+double  sc.nextDouble()
+String  sc.nextLine()
+String  sc.next()  \\For single word
+byte    sc.nextByte()
+short   sc.nextShort()
+long    sc.nextLong()
+boolean sc.nextBoolean() 
+
+declaration of an 1d array
+int[] arr = new int[]
+(or)
+int arr[] = new int[size]
+
+declaration of 2d array
+int[][] arr = new int[row][column]
+
